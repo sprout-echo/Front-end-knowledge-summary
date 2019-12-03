@@ -18,6 +18,7 @@
 ### 学习过程中看到的一些优秀的文章或导图
 - [x] [[前端模块化][1]](https://www.processon.com/view/link/5c8409bbe4b02b2ce492286a#map)
 - [x] [[浏览器缓存][2]](https://www.jianshu.com/p/54cc04190252)
+- [x] [github actions](https://help.github.com/cn/actions/automating-your-workflow-with-github-actions)
 ---------------------------------------------------------------------------------------------------------
 
 
