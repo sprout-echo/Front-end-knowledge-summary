@@ -19,6 +19,7 @@
 - [x] [[前端模块化][1]](https://www.processon.com/view/link/5c8409bbe4b02b2ce492286a#map)
 - [x] [[浏览器缓存][2]](https://www.jianshu.com/p/54cc04190252)
 - [x] [[github actions][3]](https://help.github.com/cn/actions/automating-your-workflow-with-github-actions)
+- [x] [[gitlab-ci.yml配置文件][4]](https://github.com/Fennay/gitlab-ci-cn)
 ---------------------------------------------------------------------------------------------------------
 
 
