@@ -14,6 +14,7 @@
 - [x] [V8内存分配和垃圾回收机制][7]
 - [x] [CSS Modules][8]
 - [x] [微信小程序，Taro][9]
+- [x] [[CHANGELOG][10]](https://www.yuque.com/docs/share/1a099f1a-1919-4257-9fff-b4ff02be746d#)
 
 ### 学习过程中看到的一些优秀的文章或导图
 - [x] [[前端模块化][1]](https://www.processon.com/view/link/5c8409bbe4b02b2ce492286a#map)
