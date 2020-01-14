@@ -25,6 +25,7 @@
 - [x] [[微信小程序运行流程][4]](https://juejin.im/post/5afd136551882542682e6ad7)
 - [x] [[REACT源码分析][4]](https://react.jokcy.me/book/api/react.html)
 - [x] [[REACT DIFF算法原理][4]](https://zhuanlan.zhihu.com/p/20346379)
+- [x] [[REACT Fiber原理][4]](http://www.ayqy.net/blog/dive-into-react-fiber/)
 ---------------------------------------------------------------------------------------------------------
 
 ![](https://pic1.zhimg.com/v2-0454c358dc97314557f3af224d110bf4_r.jpg)
