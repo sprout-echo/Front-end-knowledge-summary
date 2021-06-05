@@ -30,6 +30,7 @@
 - [x] [[js 数组详细操作方法及解析合集][11]](https://juejin.im/post/5b0903b26fb9a07a9d70c7e0)
 - [x] [[webpack5][12]](https://juejin.im/post/5ecd05a1f265da76c4243fe6)
 - [x] [[面试题]](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
+- [x] [[美团技术-前端安全(XSS,CSRF)]](https://tech.meituan.com/2018/09/27/fe-security.html)
 ---------------------------------------------------------------------------------------------------------
 
 ![](https://pic1.zhimg.com/v2-0454c358dc97314557f3af224d110bf4_r.jpg)
