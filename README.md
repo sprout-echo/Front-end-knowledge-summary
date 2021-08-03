@@ -32,7 +32,7 @@
 - [x] [[面试题]](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 - [x] [[美团技术-前端安全(XSS,CSRF)]](https://tech.meituan.com/2018/09/27/fe-security.html)
 - [x] [[CORS - 简单请求，复杂请求]](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
-- [x] [[React Fiber]](https://segmentfault.com/a/1190000039682751) 
+- [x] [[React Fiber原理]](https://segmentfault.com/a/1190000039682751) 
 --------------------------------------------------------------------------------------------------------
 
 ![](https://pic1.zhimg.com/v2-0454c358dc97314557f3af224d110bf4_r.jpg)
